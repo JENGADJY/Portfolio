@@ -1,0 +1,80 @@
+body{
+    background-image: url("../images/desktop-wallpaper-igor-s-theme-tyler-the-creator-igor.jpg");
+    background-size: cover;
+}
+
+.TOPSONG{
+    color: #FF449E;
+    font-family: 'Inter';
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 44px;
+    margin-top: -300px;
+    margin-left: 300px;
+}
+
+.TOPCLASS{
+    color: #FF449E;
+    font-family: 'Inter';
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 44px;
+    margin-top: -330px;
+    margin-left: 1350px;
+
+}
+
+.selftitled{
+    display: flex;
+    color: #FF449E;
+    font-family: 'Inter';
+    text-decoration: none;
+    font-weight: 900;
+    justify-content: center;
+
+
+}
+
+.selftitled a{
+    display: flex;
+    color: #FF449E;
+    font-family: 'Inter';
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 96px;
+    
+}
+
+.retour{
+    color: #FF449E;
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    writing-mode: vertical-rl; 
+    text-orientation: mixed;
+    margin-top: 450px;
+    margin-left: 0px;
+    
+}
+
+.retour-text {
+    
+    font-size: 48px;
+    text-align: center;
+    line-height: 1;
+
+}
+
+.retour-text a{
+    color: #FF449E;
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+    white-space: nowrap;
+}
+
+.bar{
+    display:flex;
+    justify-content: space-between;
+}

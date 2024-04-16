@@ -1,0 +1,176 @@
+body {
+    background-color: #F2ECFB;
+    margin: 0;
+    padding: 0;
+}
+
+.txt-verticale {
+    width: 100px;
+    height: 603px;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    writing-mode: vertical-rl; 
+    text-orientation: mixed;
+    margin-top: -100px;
+    margin-left: -50px;
+}
+
+.txt-decalee{
+    margin-left:180px;
+}
+
+.txt-decalee h1{
+    font-family:'Inter', sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    color:black;
+
+}
+
+.txt-decalee h3{
+    font-family:'Inter', sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    color:black;
+
+}
+
+.img{
+    display:flex;
+    justify-content: center;
+    transform: scale(3.5);
+}
+
+.music-box {
+    background-color: #BA372F;
+    width: 150px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 350px;
+    margin-left: 50px;
+}
+.music-text {
+    transform: rotate(180deg);
+    font-size: 24px;
+    text-align: center;
+    line-height: 1;
+}
+.music-text a {
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.projets-box{
+    background-color: #D9D9D9;
+    width: 50px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -1170px;
+    margin-left: 2150px;
+}
+
+.projets-text{
+    transform: rotate(90deg);
+    font-size: 24px;
+    text-align: center;
+    line-height: 1;
+}
+
+.projets-text a{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.experience-box{
+    background-color: #981AA3;
+    width: 50px;
+    height: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    margin-left: 2150px;
+}
+
+.experience-text{
+    transform: rotate(90deg);
+    font-size: 24px;
+    text-align: center;
+    line-height: 1;
+}
+
+.experience-text a{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+    white-space: nowrap;
+}
+
+.parcours-box{
+    background-color: #32E5D0;
+    width: 50px;
+    height: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    margin-left: 2150px;
+}
+
+.parcours-text{
+    transform: rotate(90deg);
+    font-size: 24px;
+    text-align: center;
+    line-height: 1;
+    
+}
+
+.parcours-text a{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.me-box{
+    background-color: #28EC6B;
+    width: 50px;
+    height: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    margin-left: 2150px;
+}
+
+.me-text{
+    transform: rotate(90deg);
+    font-size: 24px;
+    text-align: center;
+    line-height: 1;
+}
+
+.me-text a{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+    white-space: nowrap;
+}
+
